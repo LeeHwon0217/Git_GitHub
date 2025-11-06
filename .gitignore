@@ -1,3 +1,4 @@
 # *.txt하면 버전관리에서 폴더 다 빠짐
 # images/ 하면 폴더 다 빠짐
 memo.txt
+.gitignore
